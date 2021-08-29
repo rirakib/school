@@ -1,0 +1,1 @@
+<h1>School Manangement System </h1>
